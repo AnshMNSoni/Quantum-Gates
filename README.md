@@ -1,4 +1,4 @@
-# Quantum Gates Visualization using Qiskit
+# 🌐 Quantum Gates Visualization using Qiskit
 
 This project is a simple interactive Python application built with **Qiskit** that allows users to explore basic **quantum gates** and their effects on quantum states.
 
